@@ -2,13 +2,13 @@
 # Vivado v2020.1 (64-bit)
 # SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
 # IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
-# Start of session at: Fri Nov 18 11:47:35 2022
-# Process ID: 3824
-# Current directory: C:/Users/Administrator/OneDrive - Habib University/Sadiqah/3rd Semester/DLD/DLD_project_final
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14768 C:\Users\Administrator\OneDrive - Habib University\Sadiqah\3rd Semester\DLD\DLD_project_final\DLD_project_final.xpr
-# Log file: C:/Users/Administrator/OneDrive - Habib University/Sadiqah/3rd Semester/DLD/DLD_project_final/vivado.log
-# Journal file: C:/Users/Administrator/OneDrive - Habib University/Sadiqah/3rd Semester/DLD/DLD_project_final\vivado.jou
+# Start of session at: Tue Nov 22 12:03:21 2022
+# Process ID: 14540
+# Current directory: C:/Users/lyeba/OneDrive/Documents/GitHub/DLD_Project_Fall2022/DLD_project_final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8400 C:\Users\lyeba\OneDrive\Documents\GitHub\DLD_Project_Fall2022\DLD_project_final\DLD_project_final.xpr
+# Log file: C:/Users/lyeba/OneDrive/Documents/GitHub/DLD_Project_Fall2022/DLD_project_final/vivado.log
+# Journal file: C:/Users/lyeba/OneDrive/Documents/GitHub/DLD_Project_Fall2022/DLD_project_final\vivado.jou
 #-----------------------------------------------------------
 start_gui
-open_project {C:/Users/Administrator/OneDrive - Habib University/Sadiqah/3rd Semester/DLD/DLD_project_final/DLD_project_final.xpr}
+open_project C:/Users/lyeba/OneDrive/Documents/GitHub/DLD_Project_Fall2022/DLD_project_final/DLD_project_final.xpr
 update_compile_order -fileset sources_1
